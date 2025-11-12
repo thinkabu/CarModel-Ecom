@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "13707322790",
+    "project_id": "ltdd-dacs3-thinh",
+    "storage_bucket": "ltdd-dacs3-thinh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13707322790:android:1e671542d02e0262659b67",
+        "android_client_info": {
+          "package_name": "com.example.kelineyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK7PH1_BGjDEF2rIUwdCjIVPLOwGHc_Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13707322790:android:d85805585363936e659b67",
+        "android_client_info": {
+          "package_name": "com.example.ltdd_dacs3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK7PH1_BGjDEF2rIUwdCjIVPLOwGHc_Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13707322790:android:be8af82bfa37560f659b67",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK7PH1_BGjDEF2rIUwdCjIVPLOwGHc_Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

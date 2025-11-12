@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LTDD_DACS3</string>
+    <string name="intro_title">&quot;Automotive Excellence, <font color="#1E9BD5">\n At Your Fingertips.</font>&quot;</string>
+    <string name="intro_text">Welcome to our app - where you can explore and\n
+        experience top-notch model cars from\n
+        leading automotive brands worldwide.\n
+        Here, we proudly present a diverse collection of\n
+        vehicle types ranging from sedans, SUVs, to supercars.
+    </string>
+</resources>
